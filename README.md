@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi there! 👋 I'm Saurabh Kharade
+🎯 Senior Android Developer | Kotlin & Jetpack Compose Enthusiast | Flutter Developer
 
-<!--
-**saurabhkharade/SaurabhKharade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on: Advanced Kotlin Projects & Jetpack Compose
+- 🌱 I’m currently learning: Prompt Engineering & Machine Learning Basics
+- 💬 Ask me about: Android Development, Flutter, Kotlin, and Coroutines
+- 📫 How to reach me: [LinkedIn](https://linkedin.com/in/saurabhkharade) | [Email](mailto:saurabhkharade2@gmail.com)
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
+- **Languages:** Java, Kotlin, Dart (Flutter), PHP
+- **Frameworks:** Android SDK, Jetpack Compose, Flutter
+- **Tools:** Git, JUnit, Espresso, Dagger, Hilt, Room, SQLite
+- **Other:** Firebase, REST APIs, Google Maps API
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+- **Krishak App:** 
+- **Hafele Smart App:**
+
+## 🌐 Connect with Me
+[LinkedIn](https://linkedin.com/in/saurabhkharade) | [Portfolio](https://saurabhgraphics.in)
