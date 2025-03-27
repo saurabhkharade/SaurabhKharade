@@ -1,8 +1,8 @@
 # Hi there! 👋 I'm Saurabh Kharade
-🎯 Senior Android Developer | Kotlin & Jetpack Compose Enthusiast | Flutter Developer
+🎯 Senior Android Developer | Kotlin & Jetpack Compose Enthusiast
 
 - 🔭 I’m currently working on: Advanced Kotlin Projects & Jetpack Compose
-- 🌱 I’m currently learning: Prompt Engineering & Machine Learning Basics
+- 🌱 I’m currently learning: Prompt Engineering 
 - 💬 Ask me about: Android Development, Flutter, Kotlin, and Coroutines
 - 📫 How to reach me: [LinkedIn](https://linkedin.com/in/saurabhkharade) | [Email](mailto:saurabhkharade2@gmail.com)
 
